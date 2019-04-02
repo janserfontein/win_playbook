@@ -1,0 +1,6 @@
+# Vars to be used by openssh
+package_name: openssh
+parameters: /SSHServerFeature
+service_name: SSHD
+local_port: 22
+protocol_name: tcp
